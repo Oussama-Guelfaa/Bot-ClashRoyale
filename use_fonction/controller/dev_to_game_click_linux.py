@@ -1,7 +1,7 @@
 """
 Nom du fichier: dev_to_game_click_linux.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module définie la classe controller qui a pour but de transmettre une action au jeu clash royal pour linux.

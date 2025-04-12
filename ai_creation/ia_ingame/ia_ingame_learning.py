@@ -1,7 +1,7 @@
 """
 Nom du fichier: ia_ingame_learning.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module effectue l'entrainement d'un CNN de type VGG10 pour classifié des images entre deux classes

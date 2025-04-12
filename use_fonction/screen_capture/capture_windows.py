@@ -1,7 +1,7 @@
 """
 Nom du fichier: capture_windows.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module est utilisé uniquement si l'os de l'ordinateur est windows

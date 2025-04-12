@@ -1,7 +1,7 @@
 """
 Nom du fichier: bot.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module définie la classe bot qui a pour but de choisir l'action à effectuer en fonction de l'état de la partie clash royal.

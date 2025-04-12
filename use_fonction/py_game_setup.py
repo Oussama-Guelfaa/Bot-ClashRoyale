@@ -1,7 +1,7 @@
 """
 Nom du fichier: py_game_setup.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module définie la classe Screen_UI qui a pour but de créer une interface pour visualiser le fonctionnement des objets du projets.

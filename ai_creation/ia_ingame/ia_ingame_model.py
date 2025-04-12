@@ -1,7 +1,7 @@
 """
 Nom du fichier: ia_ingame_model.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module définie la classe VGG10 qui représente un CNN de type VGG10 pour classifier une image

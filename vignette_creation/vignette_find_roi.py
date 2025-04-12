@@ -1,7 +1,7 @@
 """
 Nom du fichier: vignette_find_roi.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module trouve les dimensions de la bounding boxe correspondant à la 

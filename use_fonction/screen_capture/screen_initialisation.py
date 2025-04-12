@@ -1,7 +1,7 @@
 """
 Nom du fichier: screen_initialisation.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Fonction qui permet d'initialiser la classe Screen_video_capture en fonction de l'os

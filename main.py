@@ -1,7 +1,7 @@
 """
 Nom du fichier: main.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module fait le lien entre toutes les différentes classes du projet Bot clash Royal.

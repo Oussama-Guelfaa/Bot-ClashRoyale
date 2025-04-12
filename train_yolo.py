@@ -1,7 +1,7 @@
 """
 Nom du fichier: train_yolo.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module effectue l'entrainement d'un yolo v8 pour labeliser des images

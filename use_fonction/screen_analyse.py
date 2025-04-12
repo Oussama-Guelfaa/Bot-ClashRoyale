@@ -1,7 +1,7 @@
 """
 Nom du fichier: screen_analyse.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module définie la classe Screen_analyse qui a pour but d'analyser une image du jeu Clash Royal pour en donner l'état.

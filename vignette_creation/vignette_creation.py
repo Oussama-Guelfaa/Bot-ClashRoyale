@@ -1,7 +1,7 @@
 """
 Nom du fichier: vignette_creation.py
 Auteur: Oussama GUELFAA
-Date: 2024-02-02
+Date: 2025-02-02
 
 Description:
 Ce module creer et enregistre une vignette d'une image.
